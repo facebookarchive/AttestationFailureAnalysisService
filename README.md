@@ -1,5 +1,12 @@
 # `AttestationFailureAnalysisService`
 
+## Do not use this repository, it is archived. The project is now maintained in repository [`attestation-sdk`](https://github.com/immune-gmbh/attestation-sdk).
+
+---
+
+Pre-archived description:
+
+
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ## About
